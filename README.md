@@ -36,7 +36,7 @@ The above image is the first stage in the ticket cycle, which is referred to as 
 <br />
 
 <p>
-<img src=https://i.imgur.com/KeC0jie.jpg/>
+<img src=https://i.imgur.com/AtSuETk.jpg/>
 </p>
 <p>
 The ticket has been assigned to the System Administrator because they would be more familiar with the system infrastructure to fix the online banking issue.  
