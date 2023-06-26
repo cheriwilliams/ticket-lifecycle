@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/rShvOOI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-The above image is the first stage in the ticket cycle, which is referred to as the Intake. A ticket has been created for a business outage that has occured in a company's online banking system.  
+The above image is the first stage in the ticket cycle; referred to as Intake. A ticket has been created for a business outage that has occured in a company's online banking system.  
 </p>
 <br />
 
@@ -47,7 +47,7 @@ The ticket has been assigned to the System Administrator because they would be m
 <img src="https://i.imgur.com/DVIvmLm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The agent has followed up with the end-user Karen notifying her that online banking should be back up and running. 
+The agent has followed up with the end-user notifying her that online banking should be back up and running. 
 </p>
 <br />
 
