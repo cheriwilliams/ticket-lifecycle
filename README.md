@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src=https://i.imgur.com/rShvOOI.jpg/>
+<img src="https://i.imgur.com/rShvOOI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 The above image is the first stage in the ticket cycle, which is referred to as the Intake. A ticket has been created for a business outage that has occured in a company's online banking system.  
@@ -36,26 +36,26 @@ The above image is the first stage in the ticket cycle, which is referred to as 
 <br />
 
 <p>
-<img src=https://i.imgur.com/AtSuETk.jpg/>
+<img src="https://i.imgur.com/AtSuETk.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The ticket has been assigned to the System Administrator because they would be more familiar with the system infrastructure to fix the online banking issue.  
-</p>
-<br />
-
-<p>
-<img src=https://i.imgur.com/DVIvmLm.jpg/>
-</p>
-<p>
-The agent has followed up with the end user Karen notifying her that online banking should be back up and running. 
+The ticket has been assigned to the System Administrator because they would be more familiar with the system infrastructure. 
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/bbEdxMI.jpg/>
+<img src="https://i.imgur.com/DVIvmLm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The ticket has been worked and resolved. Online banking is now back up and the ticket goes into the closed ticket portion of the ticketing system. 
+The agent has followed up with the end-user Karen notifying her that online banking should be back up and running. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/A0b6BXh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The online banking issue is resolved, and the ticket can now be closed. 
 </p>
 <br />
 
